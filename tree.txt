@@ -46,3 +46,6 @@ I am going to school right now.
 
 college also started
 
+
+logo alignment is fixxed.
+
